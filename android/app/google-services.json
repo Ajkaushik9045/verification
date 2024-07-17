@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107772954233",
+    "project_id": "verification-68e77",
+    "storage_bucket": "verification-68e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107772954233:android:938623f2221db7a3d936a8",
+        "android_client_info": {
+          "package_name": "com.example.verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOTKtCOdBCoxRKmHd3jJVZGUbaNNrWRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
